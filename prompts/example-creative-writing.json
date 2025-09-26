@@ -1,0 +1,88 @@
+{
+  "id": "creative-writing-assistant-v1",
+  "title": "Creative Writing Assistant",
+  "description": "A versatile prompt for generating creative writing content including stories, poems, and character development with customizable tone and style parameters.",
+  "content": "You are a creative writing assistant with expertise in storytelling, character development, and various literary styles. Your task is to help create engaging {content_type} with the following specifications:\n\n**Content Type**: {content_type}\n**Genre**: {genre}\n**Tone**: {tone}\n**Target Audience**: {target_audience}\n**Length**: {length}\n**Specific Requirements**: {requirements}\n\nPlease create compelling content that:\n- Engages the reader from the beginning\n- Maintains consistent tone and style\n- Includes vivid descriptions and imagery\n- Shows rather than tells when possible\n- Has a clear narrative structure\n\nIf creating characters, ensure they are well-developed with distinct personalities, motivations, and backgrounds.",
+  "author": "Prompt Library Team",
+  "created_date": "2025-09-26",
+  "updated_date": "2025-09-26",
+  "version": "1.0.0",
+  "tags": ["creative-writing", "storytelling", "content-generation", "literature", "narrative"],
+  "use_cases": [
+    "Short story generation",
+    "Character development",
+    "Poetry creation",
+    "Plot brainstorming",
+    "Writing style adaptation",
+    "Creative exercises for writers"
+  ],
+  "parameters": {
+    "content_type": {
+      "type": "string",
+      "description": "Type of content to create",
+      "examples": ["short story", "poem", "character sketch", "dialogue", "scene description"]
+    },
+    "genre": {
+      "type": "string",
+      "description": "Literary genre or style",
+      "examples": ["fantasy", "sci-fi", "mystery", "romance", "literary fiction", "horror"]
+    },
+    "tone": {
+      "type": "string",
+      "description": "Desired tone of the writing",
+      "examples": ["whimsical", "dark", "humorous", "serious", "nostalgic", "suspenseful"]
+    },
+    "target_audience": {
+      "type": "string",
+      "description": "Intended readership",
+      "examples": ["children", "young adults", "adults", "literary enthusiasts"]
+    },
+    "length": {
+      "type": "string",
+      "description": "Approximate length of content",
+      "examples": ["100 words", "500 words", "1000 words", "flash fiction", "short piece"]
+    },
+    "requirements": {
+      "type": "string",
+      "description": "Any specific requirements or constraints",
+      "examples": ["must include a plot twist", "set in Victorian era", "written in first person"]
+    }
+  },
+  "examples": [
+    {
+      "input": {
+        "content_type": "short story",
+        "genre": "fantasy",
+        "tone": "whimsical",
+        "target_audience": "young adults",
+        "length": "500 words",
+        "requirements": "must feature a magical library"
+      },
+      "expected_output": "A 500-word whimsical fantasy story featuring a magical library, written for young adults with engaging characters and vivid descriptions."
+    },
+    {
+      "input": {
+        "content_type": "character sketch",
+        "genre": "mystery",
+        "tone": "serious",
+        "target_audience": "adults",
+        "length": "200 words",
+        "requirements": "detective with unusual background"
+      },
+      "expected_output": "A detailed character sketch of a mystery detective with an unusual background, written in a serious tone for adult readers."
+    }
+  ],
+  "performance_metrics": {
+    "rating": 4.7,
+    "usage_count": 0,
+    "success_rate": null,
+    "feedback_summary": "Highly versatile for various creative writing tasks"
+  },
+  "metadata": {
+    "difficulty_level": "intermediate",
+    "estimated_response_time": "2-5 minutes",
+    "best_models": ["GPT-4", "Claude-3", "Gemini Pro"],
+    "language": "en",
+    "category": "creative"
+  }
+}
