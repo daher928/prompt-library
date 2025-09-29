@@ -1,0 +1,61 @@
+{
+  "category": "headshot-generation",
+  "description": "Professional headshot generation prompts for business profiles, LinkedIn photos, and corporate portraits",
+  "prompts": [
+    {
+      "id": "professional-business-headshot",
+      "title": "Professional Business Headshot",
+      "prompt": "Professional corporate headshot of a confident business professional, seated in a modern office setting, wearing a well-tailored navy blue suit, crisp white shirt, looking directly at camera with a warm, approachable smile, natural lighting from large window, neutral background with subtle office elements, high-resolution, sharp focus, professional photography style, shot with 85mm lens",
+      "tags": ["professional", "corporate", "business", "formal", "headshot"],
+      "difficulty": "beginner",
+      "style_guidance": "Corporate professional, clean and polished",
+      "technical_specs": "High resolution, 85mm portrait lens equivalent, natural lighting"
+    },
+    {
+      "id": "creative-professional-headshot",
+      "title": "Creative Professional Headshot",
+      "prompt": "Creative professional headshot of an artistic individual, standing against a minimalist concrete wall backdrop, wearing a stylish charcoal blazer over a subtle patterned shirt, confident expression with slight smile, dramatic side lighting creating gentle shadows, urban contemporary setting, shallow depth of field, cinematic quality, professional portrait photography",
+      "tags": ["creative", "artistic", "contemporary", "professional", "dramatic-lighting"],
+      "difficulty": "intermediate",
+      "style_guidance": "Contemporary creative with dramatic flair",
+      "technical_specs": "Shallow DOF, dramatic side lighting, cinematic style"
+    }
+  ],
+  "tips": {
+    "composition": [
+      "Use specific focal lengths (85mm, 105mm) for natural portrait perspective",
+      "Specify eye contact with camera for engaging headshots",
+      "Include posture details (seated, standing, leaning) for dynamic poses"
+    ],
+    "lighting": [
+      "Natural window light creates soft, professional illumination",
+      "Side lighting adds dimension and character to faces",
+      "Avoid harsh overhead lighting - specify 'soft lighting' or 'natural lighting'"
+    ],
+    "styling": [
+      "Specify clothing colors and styles that match the professional context",
+      "Include fabric details (crisp, well-tailored, subtle patterns) for realism",
+      "Consider industry-appropriate attire (corporate vs creative fields)"
+    ],
+    "background": [
+      "Use neutral, non-distracting backgrounds for professional headshots",
+      "Office settings, plain walls, or subtle textures work best",
+      "Avoid busy patterns or competing visual elements"
+    ],
+    "expression": [
+      "Specify exact facial expressions (warm smile, confident look, approachable)",
+      "Eye direction is crucial - 'looking at camera' vs 'looking away'",
+      "Consider the message you want to convey (trustworthy, creative, authoritative)"
+    ]
+  },
+  "common_modifiers": [
+    "professional photography",
+    "high resolution",
+    "sharp focus",
+    "natural lighting",
+    "shallow depth of field",
+    "85mm lens",
+    "corporate style",
+    "clean background"
+  ]
+}
