@@ -1,0 +1,63 @@
+{
+  "category": "logo-design",
+  "description": "Professional logo and brand identity design prompts for creating memorable, scalable, and versatile brand marks",
+  "prompts": [
+    {
+      "id": "modern-tech-startup-logo",
+      "title": "Modern Tech Startup Logo",
+      "prompt": "Clean, minimalist logo design for innovative technology startup, geometric lettermark combining abstract circuit patterns with bold sans-serif typography, gradient color scheme using electric blue and silver, scalable vector design, modern tech aesthetic, suitable for digital platforms and print materials, professional corporate identity, startup innovation symbolism, high contrast for legibility, versatile brand mark",
+      "tags": ["tech", "startup", "minimalist", "lettermark", "modern"],
+      "difficulty": "intermediate",
+      "style_guidance": "Clean geometric design with tech-forward aesthetics",
+      "technical_specs": "Vector format, scalable, high contrast, gradient compatible"
+    },
+    {
+      "id": "organic-wellness-brand-logo",
+      "title": "Organic Wellness Brand Logo",
+      "prompt": "Elegant organic wellness brand logo featuring stylized leaf and wellness symbol integration, earth tone color palette with sage green and warm beige, hand-drawn aesthetic with refined finishing, nature-inspired iconography, holistic health symbolism, feminine and approachable design, suitable for packaging and digital use, sustainable brand values representation, artisanal craft quality, timeless organic appeal",
+      "tags": ["organic", "wellness", "nature", "health", "sustainable"],
+      "difficulty": "advanced",
+      "style_guidance": "Hand-crafted organic aesthetic with refined execution",
+      "technical_specs": "Scalable design, packaging-ready, earth tone palette"
+    }
+  ],
+  "tips": {
+    "design_principles": [
+      "Ensure scalability from business card to billboard size",
+      "Create high contrast versions for single-color applications",
+      "Design with both digital and print applications in mind"
+    ],
+    "typography": [
+      "Choose fonts that reflect the brand personality and industry",
+      "Ensure readability at small sizes for favicon and app icons",
+      "Consider custom lettering for unique brand differentiation"
+    ],
+    "color_strategy": [
+      "Limit color palette to 2-3 primary colors for versatility",
+      "Include color specifications (HEX, RGB, CMYK, Pantone)",
+      "Design a monochrome version for cost-effective applications"
+    ],
+    "symbolism": [
+      "Incorporate meaningful symbols relevant to the industry",
+      "Avoid overly literal representations - aim for abstract concepts",
+      "Consider cultural implications and global market appeal"
+    ],
+    "technical_requirements": [
+      "Provide vector formats (AI, EPS, SVG) for perfect scalability",
+      "Include various file formats for different use cases",
+      "Ensure trademark and copyright compliance in design elements"
+    ]
+  },
+  "common_modifiers": [
+    "vector design",
+    "scalable logo",
+    "professional branding",
+    "minimalist design",
+    "corporate identity",
+    "brand mark",
+    "clean typography",
+    "high contrast",
+    "versatile application",
+    "memorable design"
+  ]
+}
