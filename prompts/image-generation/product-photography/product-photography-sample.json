@@ -1,0 +1,63 @@
+{
+  "category": "product-photography",
+  "description": "Professional product photography prompts for e-commerce, catalog, and marketing materials featuring commercial products",
+  "prompts": [
+    {
+      "id": "luxury-watch-studio-shot",
+      "title": "Luxury Watch Studio Photography",
+      "prompt": "Professional studio product photography of an elegant Swiss luxury watch with stainless steel case and black leather strap, positioned at 45-degree angle on pristine white seamless backdrop, dramatic studio lighting with key light and fill light setup, subtle reflections on watch face and case, crisp focus with shallow depth of field, commercial photography style, high-end product catalog quality, macro lens detail, reflector highlights on metal surfaces, shadows perfectly controlled",
+      "tags": ["luxury", "watch", "studio", "product", "commercial"],
+      "difficulty": "advanced",
+      "style_guidance": "High-end commercial photography with perfect lighting and reflections",
+      "technical_specs": "Macro lens, studio lighting setup, white seamless backdrop"
+    },
+    {
+      "id": "lifestyle-skincare-product",
+      "title": "Lifestyle Skincare Product Photography",
+      "prompt": "Clean, minimalist product photography of premium skincare serum bottle surrounded by natural spa elements, soft morning light filtering through sheer curtains, marble surface with subtle texture, fresh eucalyptus leaves and smooth river stones as props, lifestyle product photography aesthetic, pastel color palette with soft greens and whites, aspirational beauty brand styling, soft shadows and natural reflections, Instagram-worthy composition",
+      "tags": ["skincare", "lifestyle", "beauty", "natural", "minimalist"],
+      "difficulty": "intermediate",
+      "style_guidance": "Clean lifestyle aesthetic with natural lighting and spa-like elements",
+      "technical_specs": "Natural lighting, lifestyle props, marble surfaces, soft focus"
+    }
+  ],
+  "tips": {
+    "lighting_techniques": [
+      "Use multiple light sources: key light, fill light, and background light",
+      "Employ softboxes or diffusers to create even, professional lighting",
+      "Control reflections with reflectors, flags, and careful light positioning"
+    ],
+    "composition_rules": [
+      "Follow the rule of thirds for dynamic product placement",
+      "Create depth with foreground, middle ground, and background elements",
+      "Leave negative space for text overlay in commercial applications"
+    ],
+    "product_styling": [
+      "Ensure products are clean, dust-free, and properly positioned",
+      "Use props that complement but don't compete with the main product",
+      "Consider the target audience and brand aesthetic when styling"
+    ],
+    "technical_execution": [
+      "Shoot in RAW format for maximum post-processing flexibility",
+      "Use appropriate aperture for desired depth of field (typically f/8-f/11 for sharp products)",
+      "Employ focus stacking for macro product shots requiring front-to-back sharpness"
+    ],
+    "background_choices": [
+      "White seamless paper for clean, professional catalog shots",
+      "Textured surfaces (marble, wood, fabric) for lifestyle photography",
+      "Gradient backgrounds for modern, dynamic product presentations"
+    ]
+  },
+  "common_modifiers": [
+    "product photography",
+    "commercial quality",
+    "studio lighting",
+    "white background",
+    "professional catalog",
+    "high resolution",
+    "clean composition",
+    "e-commerce ready",
+    "marketing material",
+    "brand photography"
+  ]
+}
