@@ -1,0 +1,63 @@
+{
+  "category": "art",
+  "description": "Artistic image generation prompts for creative, painterly, and stylized artworks across various art movements and techniques",
+  "prompts": [
+    {
+      "id": "impressionist-landscape",
+      "title": "Impressionist Landscape Painting",
+      "prompt": "Impressionist oil painting of a serene countryside landscape, golden hour lighting with soft warm sunbeams filtering through tall oak trees, wildflower meadow in foreground with purple lupins and yellow daisies, rolling green hills in background, loose visible brushstrokes, vibrant color palette of yellows, purples, and greens, painted en plein air style, reminiscent of Claude Monet, atmospheric perspective, dreamy and ethereal quality",
+      "tags": ["impressionist", "landscape", "oil-painting", "plein-air", "monet-style"],
+      "difficulty": "intermediate",
+      "style_guidance": "Impressionist technique with visible brushstrokes and atmospheric lighting",
+      "technical_specs": "Oil painting texture, loose brushwork, high color saturation"
+    },
+    {
+      "id": "abstract-geometric-art",
+      "title": "Modern Abstract Geometric Art",
+      "prompt": "Bold abstract geometric composition featuring interlocking triangular and circular shapes, vibrant color blocking with deep blue, bright orange, and pure white sections, clean sharp edges, minimalist design, inspired by Wassily Kandinsky and Piet Mondrian, mathematical precision, balanced asymmetrical layout, contemporary art gallery style, high contrast, vector-like clarity, modern art movement aesthetic",
+      "tags": ["abstract", "geometric", "modern-art", "kandinsky-style", "mondrian-inspired"],
+      "difficulty": "beginner",
+      "style_guidance": "Clean geometric abstraction with bold color blocking",
+      "technical_specs": "Sharp edges, high contrast, vector-like precision"
+    }
+  ],
+  "tips": {
+    "art_movements": [
+      "Reference specific art movements (Impressionism, Cubism, Surrealism) for style consistency",
+      "Mention famous artists' names to guide the aesthetic direction",
+      "Include period-appropriate techniques (oil painting, watercolor, acrylic)"
+    ],
+    "composition": [
+      "Specify foreground, middle ground, and background elements for depth",
+      "Use compositional rules (rule of thirds, golden ratio, symmetry)",
+      "Include lighting direction and quality (golden hour, soft light, dramatic shadows)"
+    ],
+    "color_and_texture": [
+      "Define color palettes explicitly (warm earth tones, cool blues, vibrant primaries)",
+      "Specify texture qualities (smooth, rough, impasto, glazed)",
+      "Include brushstroke descriptions (loose, tight, visible, blended)"
+    ],
+    "style_specificity": [
+      "Combine multiple style references for unique results",
+      "Use medium-specific terms (oil on canvas, watercolor on paper, digital art)",
+      "Include artistic techniques (chiaroscuro, pointillism, color blocking)"
+    ],
+    "artistic_elements": [
+      "Specify the mood or emotion you want to convey",
+      "Include environmental details that support the artistic style",
+      "Use descriptive language that matches the art movement's vocabulary"
+    ]
+  },
+  "common_modifiers": [
+    "oil painting",
+    "visible brushstrokes",
+    "vibrant colors",
+    "artistic composition",
+    "museum quality",
+    "fine art",
+    "painterly style",
+    "artistic lighting",
+    "creative expression",
+    "masterpiece"
+  ]
+}
