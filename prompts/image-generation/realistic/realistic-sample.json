@@ -1,0 +1,63 @@
+{
+  "category": "realistic",
+  "description": "Photorealistic image generation prompts for lifelike scenes, people, objects, and environments that appear naturally photographed",
+  "prompts": [
+    {
+      "id": "urban-street-photography",
+      "title": "Realistic Urban Street Photography",
+      "prompt": "Photorealistic street photography of a bustling New York City intersection during golden hour, authentic pedestrians walking across crosswalk wearing varied seasonal clothing, yellow taxi cabs and modern cars in traffic, steam rising from manholes, glass skyscrapers reflecting warm sunlight, natural depth of field, shot with Canon 5D Mark IV, 35mm lens, street photographer aesthetic, candid moment capture, urban documentary style, high detail and sharp focus",
+      "tags": ["street-photography", "urban", "photorealistic", "candid", "documentary"],
+      "difficulty": "intermediate",
+      "style_guidance": "Documentary photography with natural lighting and authentic human moments",
+      "technical_specs": "DSLR quality, natural depth of field, 35mm perspective"
+    },
+    {
+      "id": "nature-wildlife-scene",
+      "title": "Realistic Nature Wildlife Scene",
+      "prompt": "Hyperrealistic photograph of a majestic red fox in its natural woodland habitat during early morning, dew drops visible on surrounding ferns and moss, soft filtered sunlight streaming through tall pine trees, fox looking alertly toward camera with bright amber eyes, detailed fur texture showing individual hairs, natural forest floor with fallen leaves and small wildflowers, National Geographic wildlife photography style, telephoto lens compression, pristine wilderness setting",
+      "tags": ["wildlife", "nature", "photography", "forest", "hyperrealistic"],
+      "difficulty": "advanced",
+      "style_guidance": "National Geographic style wildlife photography with perfect natural lighting",
+      "technical_specs": "Telephoto lens, shallow depth of field, hyperrealistic detail"
+    }
+  ],
+  "tips": {
+    "lighting_realism": [
+      "Specify natural lighting conditions (golden hour, overcast, dappled sunlight)",
+      "Mention light direction and quality (soft, harsh, filtered, ambient)",
+      "Include realistic shadows and highlights that match the scene"
+    ],
+    "photographic_techniques": [
+      "Reference specific camera models and lens types for authenticity",
+      "Use photography terminology (depth of field, bokeh, compression, perspective)",
+      "Specify realistic camera settings effects (shallow/deep DOF, wide/telephoto)"
+    ],
+    "environmental_details": [
+      "Include weather conditions and atmospheric effects (humidity, dust, mist)",
+      "Add realistic environmental elements (reflections, shadows, textures)",
+      "Specify authentic materials and surface qualities"
+    ],
+    "human_elements": [
+      "Describe natural, candid human behavior and expressions",
+      "Include realistic clothing appropriate to setting and weather",
+      "Mention authentic cultural and social context details"
+    ],
+    "technical_quality": [
+      "Emphasize high resolution and sharp focus for realism",
+      "Mention specific photography styles (documentary, journalistic, candid)",
+      "Include realistic color grading and post-processing qualities"
+    ]
+  },
+  "common_modifiers": [
+    "photorealistic",
+    "hyperrealistic",
+    "DSLR quality",
+    "natural lighting",
+    "high resolution",
+    "sharp focus",
+    "authentic",
+    "candid moment",
+    "documentary style",
+    "professional photography"
+  ]
+}
